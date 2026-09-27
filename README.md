@@ -16,7 +16,7 @@ Simulado interativo de múltipla escolha da disciplina **Tópicos Especiais em C
 | Diabetes Mellitus | 40 |
 | Dor Crônica | 40 |
 
-As questões se limitam ao conteúdo dos slides das aulas. Os PCDTs do Ministério da Saúde (Doença Falciforme, Dislipidemias, HAS, DM1, DM2 e Dor Crônica) servem apenas de complemento para os temas que os slides abordam. Questões marcadas como "Momento ENAMED da aula (adaptada)" são versões reescritas das questões apresentadas em sala.
+As questões se limitam ao conteúdo dos slides das aulas. Os PCDTs do Ministério da Saúde (Doença Falciforme, Dislipidemias, HAS, DM1, DM2 e Dor Crônica) servem apenas de complemento para os temas que os slides abordam. Questões marcadas como "Questão da professora (adaptada)" são versões reescritas das questões feitas em sala.
 
 ## Funcionalidades
 
