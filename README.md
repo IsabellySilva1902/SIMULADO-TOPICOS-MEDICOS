@@ -6,15 +6,15 @@ Simulado interativo de múltipla escolha da disciplina **Tópicos Especiais em C
 
 ## Conteúdo
 
-200 questões comentadas, 40 por assunto:
+241 questões comentadas:
 
 | Assunto | Questões |
 |---|---|
-| Doença Falciforme | 40 |
-| Dislipidemia | 40 |
-| Hipertensão Arterial Sistêmica | 40 |
-| Diabetes Mellitus | 40 |
-| Dor Crônica | 40 |
+| Doença Falciforme | 48 |
+| Dislipidemia | 48 |
+| Hipertensão Arterial Sistêmica | 48 |
+| Diabetes Mellitus | 48 |
+| Dor Crônica | 49 |
 
 As questões se limitam ao conteúdo dos slides das aulas. Os PCDTs do Ministério da Saúde (Doença Falciforme, Dislipidemias, HAS, DM1, DM2 e Dor Crônica) servem apenas de complemento para os temas que os slides abordam. Questões marcadas como "Questão da professora (adaptada)" são versões reescritas das questões feitas em sala.
 
