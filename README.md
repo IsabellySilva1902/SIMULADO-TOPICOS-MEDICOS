@@ -6,15 +6,15 @@ Simulado interativo de múltipla escolha da disciplina **Tópicos Especiais em C
 
 ## Conteúdo
 
-241 questões comentadas:
+261 questões comentadas, incluindo as 20 questões da prova VAT1 2026.2 (Turma D), com códigos terminados em V01, V02…:
 
-| Assunto | Questões |
-|---|---|
-| Doença Falciforme | 48 |
-| Dislipidemia | 48 |
-| Hipertensão Arterial Sistêmica | 48 |
-| Diabetes Mellitus | 48 |
-| Dor Crônica | 49 |
+| Assunto | Questões | Da prova VAT1 |
+|---|---|---|
+| Doença Falciforme | 49 | 1 |
+| Dislipidemia | 52 | 4 |
+| Hipertensão Arterial Sistêmica | 49 | 1 |
+| Diabetes Mellitus | 54 | 6 |
+| Dor Crônica | 57 | 8 |
 
 As questões se limitam ao conteúdo dos slides das aulas. Os PCDTs do Ministério da Saúde (Doença Falciforme, Dislipidemias, HAS, DM1, DM2 e Dor Crônica) servem apenas de complemento para os temas que os slides abordam. Questões marcadas como "Questão da professora (adaptada)" são versões reescritas das questões feitas em sala.
 
