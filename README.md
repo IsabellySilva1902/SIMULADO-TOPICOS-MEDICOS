@@ -6,15 +6,17 @@ Simulado interativo de múltipla escolha da disciplina **Tópicos Especiais em C
 
 ## Conteúdo
 
-200 questões comentadas, 40 por assunto:
+215 questões comentadas: 200 detalhadas (40 por assunto) e 15 diretas no estilo da prova VAT1 (códigos com P).
 
-| Assunto | Questões |
-|---|---|
-| Doença Falciforme | 40 |
-| Dislipidemia | 40 |
-| Hipertensão Arterial Sistêmica | 40 |
-| Diabetes Mellitus | 40 |
-| Dor Crônica | 40 |
+| Assunto | Detalhadas | Estilo da prova |
+|---|---|---|
+| Doença Falciforme | 40 | 1 |
+| Dislipidemia | 40 | 2 |
+| Hipertensão Arterial Sistêmica | 40 | 1 |
+| Diabetes Mellitus | 40 | 4 |
+| Dor Crônica | 40 | 7 |
+
+Por padrão, o simulado distribui as questões pelo peso da prova: Dor Crônica 40%, Diabetes 30%, Dislipidemia 20%, Hipertensão 5% e Falciforme 5%. Na página inicial dá para trocar para distribuição igual e escolher o tipo de questão (todas, só as do estilo da prova ou só as detalhadas).
 
 As questões se limitam ao conteúdo dos slides das aulas. Os PCDTs do Ministério da Saúde (Doença Falciforme, Dislipidemias, HAS, DM1, DM2 e Dor Crônica) servem apenas de complemento para os temas que os slides abordam. Questões marcadas como "Questão da professora (adaptada)" são versões reescritas das questões feitas em sala.
 
