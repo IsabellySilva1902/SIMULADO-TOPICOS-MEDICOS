@@ -20,6 +20,7 @@ As questões se limitam ao conteúdo dos slides das aulas. Os PCDTs do Ministér
 
 ## Funcionalidades
 
+- Botão "Fazer só a prova": as 20 questões da prova VAT1, na ordem original e com as alternativas na ordem da prova
 - Escolha de assuntos e quantidade de questões, com amostragem balanceada
 - Alternativas embaralhadas a cada tentativa
 - Dica (ponto-chave) opcional e comentário de todas as alternativas
